@@ -4,7 +4,7 @@ Submitted by: **David Salas Carrascal**
 
 This web app: **Displays a list of 10 parks located in Atlanta GA. It displays name, location, and a button link to the parks website**
 
-Time spent: **X** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
@@ -20,13 +20,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+- [x] Change icon of website.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![GIF](https://imgur.com/a/KpMdH6e)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif

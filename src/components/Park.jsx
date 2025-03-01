@@ -3,9 +3,10 @@ import React from "react";
 const Park = (props) => {
     return (
         <td className = "parkCard">
-            <h2>{props.parkName}</h2>
-            <h3>{props.parkLocation}</h3>
-            <a href={props.parkLink} target="_blank">Visit</a>
+            <img src={props.parkImage} alt={props.parkName}></img>
+            <h3>{props.parkName}</h3>
+            <h4>{props.parkLocation}</h4>
+            <a className = "buttonLink" href={props.parkLink} target="_blank">Visit</a>
         </td>
     )
 }
