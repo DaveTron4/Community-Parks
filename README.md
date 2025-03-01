@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![GIF](/CommunityParks/src/assets/community-park-walkthrough.gif)
+![GIF](src/assets/community-park-walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
